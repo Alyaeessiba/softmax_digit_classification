@@ -9,7 +9,7 @@
 
 + On the trainning set = 99.77%
 + On the test set = 99.50 %
-
+alyae
 ### Some informations:
 <b>To run the app just use ```python3 app.py``` in the terminla </b>
 <br/><br/>
